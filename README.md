@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
