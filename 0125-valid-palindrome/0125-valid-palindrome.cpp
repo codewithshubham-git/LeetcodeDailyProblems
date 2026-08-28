@@ -35,10 +35,6 @@ private:
         return 1;
     }
 
-
-    
-
-        
 public:
     bool isPalindrome(string s) {
 
