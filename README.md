@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -71,4 +72,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
