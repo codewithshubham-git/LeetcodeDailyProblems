@@ -72,9 +72,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
