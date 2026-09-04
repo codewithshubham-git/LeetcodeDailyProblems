@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
