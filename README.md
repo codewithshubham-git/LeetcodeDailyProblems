@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0001-two-sum) |
+| [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -102,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0115-distinct-subsequences) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
