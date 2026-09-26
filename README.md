@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0001-two-sum) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
