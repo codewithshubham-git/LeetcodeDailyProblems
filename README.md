@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0115-distinct-subsequences) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,4 +128,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Matrix
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
