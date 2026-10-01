@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1009-complement-of-base-10-integer) |
 ## Divide and Conquer
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0231-power-of-two) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
