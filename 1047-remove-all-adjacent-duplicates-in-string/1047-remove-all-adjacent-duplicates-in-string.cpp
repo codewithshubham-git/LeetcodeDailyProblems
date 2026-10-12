@@ -1,20 +1,20 @@
 class Solution {
 public:
     string removeDuplicates(string s) {
-        
-        string ans;
 
-        for(char ch : s) {
-            
-            // If last character is same, remove it
-            if(!ans.empty() && ans.back() == ch) {
-                ans.pop_back();
+        vector<char>st;
+        st.push_back(s[0]);
+
+        for(int i = 1; i<s.size(); i++) {
+            if(!st.empty() && st.back() == s[i]) {
+                st.pop_back();
             }
-            else {
-                // Otherwise add current character
-                ans.push_back(ch);
+            else{
+                st.push_back(s[i]);
             }
         }
+        
+        string ans(st.begin(), st.end());
 
         return ans;
     }
