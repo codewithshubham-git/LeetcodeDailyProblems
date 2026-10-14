@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
+| [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
+| [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Stack
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0678-valid-parenthesis-string) |
+| [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Backtracking
 |  |
