@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
+| [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0231-power-of-two) |
+| [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -203,4 +205,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
