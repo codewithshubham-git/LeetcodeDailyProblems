@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -58,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0443-string-compression) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
