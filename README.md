@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
