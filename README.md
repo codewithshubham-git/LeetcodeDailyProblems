@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2540-minimum-common-value](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
