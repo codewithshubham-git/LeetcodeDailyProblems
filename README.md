@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2942-find-words-containing-character](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2942-find-words-containing-character](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
