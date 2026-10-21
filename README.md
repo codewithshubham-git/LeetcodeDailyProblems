@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2942-find-words-containing-character](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Enumeration
 |  |
 | ------- |
