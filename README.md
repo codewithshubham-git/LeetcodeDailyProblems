@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
+| [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
 | [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1331-rank-transform-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
+| [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0678-valid-parenthesis-string) |
+| [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -296,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Trie
+|  |
+| ------- |
+| [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
 <!---LeetCode Topics End-->
