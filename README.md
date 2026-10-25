@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
 | [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
+| [1254-number-of-closed-islands](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1254-number-of-closed-islands) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Recursion
 |  |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -303,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
