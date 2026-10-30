@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1390-four-divisors) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1732-find-the-highest-altitude](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1920-build-array-from-permutation](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1920-build-array-from-permutation) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1732-find-the-highest-altitude) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [3903-smallest-stable-index-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
