@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
 | [0820-short-encoding-of-words](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0820-short-encoding-of-words) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
+| [1189-maximum-number-of-balloons](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1331-rank-transform-of-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2540-minimum-common-value](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2540-minimum-common-value) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1189-maximum-number-of-balloons) |
 ## Two Pointers
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1096-brace-expansion-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
