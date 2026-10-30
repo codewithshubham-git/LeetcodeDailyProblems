@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2942-find-words-containing-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3022-minimize-or-of-remaining-elements-using-operations](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3022-minimize-or-of-remaining-elements-using-operations) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2540-minimum-common-value](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2540-minimum-common-value) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3886-sum-of-sortable-integers) |
 ## Heap (Priority Queue)
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0912-sort-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1189-maximum-number-of-balloons) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
@@ -127,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [2540-minimum-common-value](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2540-minimum-common-value) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
@@ -213,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0845-longest-mountain-in-array](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/0845-longest-mountain-in-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3186-maximum-total-damage-with-spell-casting](https://github.com/codewithshubham-git/LeetcodeDailyProblems/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Backtracking
 |  |
 | ------- |
